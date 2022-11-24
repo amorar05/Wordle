@@ -1,0 +1,2 @@
+# Wordle
+Practica obligatoria wordle
