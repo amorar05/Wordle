@@ -1,3 +1,3 @@
-public class Wordle{
+public class Wordle {
     
 }
