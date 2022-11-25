@@ -1,6 +1,4 @@
 package es.unileon.prg1.wordle;
 
-public class WordleTextUI {
-
-
+public class WordTest {
 }
