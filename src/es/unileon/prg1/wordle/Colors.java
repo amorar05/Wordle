@@ -1,4 +1,7 @@
 package es.unileon.prg1.wordle;
 
-public class Colors {
+public enum Colors {
+
+    NONE, BLUE, GREEN, YELLOW;
+
 }
