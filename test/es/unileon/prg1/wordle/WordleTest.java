@@ -1,7 +1,5 @@
 package es.unileon.prg1.wordle;
 
-import static org.junit.Assert.*;
-
 import org.junit.Before;
 import org.junit.Test;
 
@@ -22,5 +20,9 @@ public class WordleTest {
 
     }
 
+    @Test
+    public void testNumOfWords() throws WordleException {
+
+    }
 
 }

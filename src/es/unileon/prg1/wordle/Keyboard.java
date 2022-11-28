@@ -148,7 +148,7 @@ public class Keyboard {
      *  Lee un <CODE>long</CODE> introducido por el teclado.
      *
      *  @return Retorna el valor introducido por el teclado. Si se introduce un valor que no es correcto se retorna el minimo
-     *  valor representable  en double (Double.MIN_VALUE)
+     *  valor representable en double (Double.MIN_VALUE)
      *  @see Double
      */
 
