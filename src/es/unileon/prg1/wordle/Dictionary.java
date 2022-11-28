@@ -6,6 +6,40 @@ public class Dictionary {
         List<String> Dictionary;
         Dictionary = new ArrayList<>();
         Dictionary.add("sobre");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+        Dictionary.add("");
+
         System.out.println(Dictionary.get(0));
     }
 }
