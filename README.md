@@ -3,12 +3,12 @@ Practica obligatoria wordle
 Planificación de las tareas que vamos a realizar
 
 
-|               | Código        | Javadoc       |Logs	          | Fecha inicio	|  Fecha fin    |
-| -----------   | -----------   |-----------    |-----------    | -----------   |-----------    |
+|               | Código        | Javadoc       |Logs	          | Fecha inicio	 |  Fecha fin    |
+| -----------   | -----------   |-----------    |-----------    |---------------|-----------    |
 | Wordle        | Patricia      |  Nombre       | Agustin       |               | 10/12/2022    |
 | Word          | Alberto       |  Patricia     | Raul          | 25/11/2022    | 10/12/2022    |
 | WordleTextUI  | Alberto       |  Patricia     | Raul          | 25/11/2022    | 10/12/2022    |
-| Dictionary    | Agustin       |  Alberto      | Patricia      |               | 10/12/2022    |
+| Dictionary    | Agustin       |  Alberto      | Patricia      | 28/11/2022    | 10/12/2022    |
 | Board         | Raul          |  Raul         | Alberto       |               | 10/12/2022    |
 | Build.xml     | Alberto       |               |               |               | 10/12/2022    |
 
