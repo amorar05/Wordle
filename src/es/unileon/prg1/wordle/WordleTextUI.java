@@ -10,9 +10,5 @@ public class WordleTextUI {
 
     public void init() {
     }
-    public String getOutOfGame() {
-        String salir;
-        if ()
-    }
 
 }
