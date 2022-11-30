@@ -1,6 +1,6 @@
 package es.unileon.prg1.wordle;
 
-import java.util.Scanner;
+import static es.unileon.prg1.wordle.Keyboard.readString;
 
 public class WordleTextUI {
 
@@ -10,5 +10,13 @@ public class WordleTextUI {
 
     public void init() {
     }
+
+    public String getUserTry() {
+        System.out.println("Introduzca una palabra de 5 letras");
+        String userTry = readString();
+        return userTry;
+    }
+
+
 
 }
